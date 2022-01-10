@@ -4,7 +4,7 @@
 
 - This module explains about the example of Spring Boot + MongoDB Integration using Mongo Repository Interface with practical coding example and required dependencies.
 
-### For more such developments, visit my [Portfolio](https://gowthamrajk.github.io)
+### For more such developments, visit my [Portfolio](https://gowthamrajk.github.io) 🌐
 
 # About Project Development 🥅
 
@@ -25,7 +25,7 @@
 ## Development Tools 📺
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Tool+Suit&color=6DB33F&logo=Spring+Tool+suit&logoColor=FFFFFF&label=)
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&message=MongoDB+Compass&logo=mongodb&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&message=MongoDB+Compass&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 
 <br>
